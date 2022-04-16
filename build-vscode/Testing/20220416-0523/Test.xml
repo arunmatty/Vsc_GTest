@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20220416-0523-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.20.21032501-MSVC_2"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="DESKTOP-K2CN8R0"
+	OSRelease=" Professional"
+	OSVersion=" (Build 22000)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="14"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="14024"
+	TotalPhysicalMemory="12168"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2304"
+	>
+	<Testing>
+		<StartDateTime>Apr 16 11:57 India Standard Time</StartDateTime>
+		<StartTestTime>1650090433</StartTestTime>
+		<TestList>
+			<Test>./test/ExampleTests</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>ExampleTests</Name>
+			<Path>./test</Path>
+			<FullName>./test/ExampleTests</FullName>
+			<FullCommandLine>C:\Users\Kavian\Documents\Vsc_GTest\build-vscode\test\Debug\ExampleTests.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0375051</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Kavian\Documents\Vsc_GTest\build-vscode\test\Debug\ExampleTests.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyVkk1PhDAQQO/8ijkuBxqNNxMPZCF72PgF4oWSTa0VibTddMrqz5dS3CyboDiXTjuvnddksk6pRtUgWaNWIbwZLWF9TQsUBumWHRqmaKJ5J4WySJ+R7zZPAi2tta5bYc9SNJzWLtu59wjnQXlzjAqysdkVOAZ9N78B7Jp+JUEZHaOCTatfWOsBoQ6N0cqJAAobdfsz+NJzw6PpF5P7VjjVoISsuIMhqtMCSYTUaA2zYvjTLeNGY4/7uN8uwWF1ARLDRSaeBasta8Ng0RWctUeSPxZxls76/gD/McSlivz9Y8eMmdqNhyTO1lOrk8KfNiP7m8jcVFjBTPSqP9V06uanDQxTZNqp936I8zxN3IfGmyT4Bi5P+gc=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Apr 16 11:57 India Standard Time</EndDateTime>
+		<EndTestTime>1650090433</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

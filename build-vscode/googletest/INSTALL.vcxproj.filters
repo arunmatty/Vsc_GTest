@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Kavian\Documents\Vsc_GTest\build-vscode\CMakeFiles\849149dd38be6f3f90940f48b07d5d20\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{70B27FC0-5EEA-3AF5-BC13-A6F33F66539A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
